@@ -1,4 +1,4 @@
-# firebaseGeofire
+# Firebase with Geofire
 Firebase4 and Geofire for storing user location sample IOS swift
 
 1. clone or download project
