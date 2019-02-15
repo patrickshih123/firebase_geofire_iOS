@@ -1,4 +1,4 @@
-# Purpose of the App
+# Function of the App
 The app is used to track and share location information with friends real-time. The location data can be stored on Firebase. 
 
 
